@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace 虚拟帐号2
+namespace 虚拟帐号2新
 {
     class Program
     {
